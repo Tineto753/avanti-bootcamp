@@ -1,7 +1,7 @@
 # Vida e Morte no Titanic: Uma Análise da Estratificação Social
 
 Este projeto explora a estratificação social a bordo do Titanic, um símbolo das desigualdades da sociedade do início do século XX. A análise das experiências de passageiros de diferentes classes – primeira, segunda e terceira – visa investigar como a classe social pode ter influenciado o tratamento e as oportunidades de sobrevivência durante o naufrágio. Embora não tenhamos acesso a dados históricos específicos, é plausível que a tragédia do Titanic tenha exposto disparidades sociais significativas, sugerindo a importância de uma reflexão sobre as consequências da desigualdade em situações de crise.
-[arte titanic](./arte titanic.PNG)
+[arte titanic](./arte_titanic.PNG)
 
 ## Desenvolvedores
  - [José Neto](https://github.com/Tineto753)
